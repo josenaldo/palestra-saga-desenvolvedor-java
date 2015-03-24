@@ -1,5 +1,5 @@
 .reveal .present {
-    height: 100%;
+    /*height: 100%;*/
 }
 .reveal .lead {
 	font-size: :105%;
@@ -83,24 +83,16 @@
     box-shadow: none;
 }
 
-.reveal .slide-background.present{
-    background-size: contain;
+.reveal h1.subtitle{
+    font-size: 4em;
+    color:white;
+    font-weight: bolder;
 }
 
-.reveal .title-table {
-    display: table;
-    height: 100%;
-}
-
-.reveal .title-row {
-    display: table-row;
-    height: 100%;
-}
-
-.reveal .title-cell {
-    display: table-cell;
-    vertical-align: middle;
-    font-size: 7em;
+.reveal h1.subtitle-dark{
+    font-size: 4em;
+    color:black;
+    font-weight: bolder;
 }
 /* pallet: http://paletton.com/#uid=73p0u0k8fnv2uA35ds6bljwdIdF */;
 .reveal .color1 {
