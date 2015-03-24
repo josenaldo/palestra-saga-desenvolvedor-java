@@ -1,5 +1,2 @@
-Palestras
-=========
-
-* Programação Orientada à Gambiarra
-* Colocando sua aplicação na Nuvem com o Openshift
+# palestra-saga-desenvolvedor-java
+Palestra - De Padawan a Jedi - A Saga do Desenvolvedor Java
