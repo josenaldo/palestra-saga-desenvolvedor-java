@@ -4,7 +4,8 @@
   background: none;
 }
 .reveal section h2.warning {
-  background-color: #9B0000;
+  color: #9B0000;
+  background-color: #ffffff;
   padding-top: 15px;
 }
 .reveal section h2.warning img {
