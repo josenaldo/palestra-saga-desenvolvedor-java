@@ -3,16 +3,51 @@
   box-shadow: none;
   background: none;
 }
+
 .reveal section h2.warning {
   color: #9B0000;
   background-color: #ffffff;
   padding-top: 15px;
 }
+
 .reveal section h2.warning img {
   margin: 0;
-
 }
 
 .reveal section p.small {
   font-size: 0.8em;
+}
+
+.reveal section img.plain {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal section.titleslide h1,
+.reveal section.titleslide h2,
+.reveal section.titleslide h3,
+.reveal section.titleslide h4 {
+  color: #FFFFFF;
+}
+
+.reveal section h1 {
+  color: #2E334A;
+}
+
+.reveal section h2 {
+  color: #9B0000;
+}
+
+.reveal section h3,
+.reveal section h4,
+.reveal section p {
+  color: #494F6A;
+}
+
+.reveal .color1 {
+  color: #2E334A
+}
+
+.reveal .color2 {
+  color: #9B0000
 }
