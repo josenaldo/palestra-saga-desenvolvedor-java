@@ -10,9 +10,46 @@
 }
 .reveal section h2.warning img {
   margin: 0;
-
 }
 
 .reveal section p.small {
   font-size: 0.8em;
 }
+
+.reveal section img.plain {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal section.titleslide h1,
+.reveal section.titleslide h2,
+.reveal section.titleslide h3,
+.reveal section.titleslide h4{
+  color: #FFFFFF;
+}
+
+.reveal section h1 {
+  color: #2E334A;
+}
+
+.reveal section h2 {
+  color: #9B0000;
+}
+
+.reveal section h3,
+.reveal section h4,
+.reveal section p  {
+  color: #494F6A;
+}
+
+
+
+.reveal .color1 { color: #2E334A }
+.reveal .color2 { color: #9B0000 }
+
+
+
+.reveal .color5-lighter { color: #FF6464 }
+.reveal .color5-light { color: #FF3939 }
+.reveal .color5-dark { color: #C60000 }
+.reveal .color5-darker { color: #9B0000 }
